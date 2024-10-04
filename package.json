@@ -1,0 +1,13 @@
+{
+  "name": "educy",
+  "packageManager": "yarn@1.22.22",
+  "dependencies": {
+    "cypress": "^13.10.0"
+  },
+  "scripts": {
+    "open": "cypress open"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
